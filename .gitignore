@@ -1,0 +1,9 @@
+# ignore compiled stuff
+main
+*.bc
+*.ll
+*.o
+*.obj
+*.exe
+myTextFile.txt
+.atom-build.cson
